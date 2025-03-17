@@ -1,4 +1,4 @@
-Вказівка повторення. Цикл While  
+[Вказівка повторення. Цикл While](Вказівка повторення.Цикл_While.md)  
 [Квадрати чисел](https://basecamp.eolymp.com/uk/problems/8544)  
 [Найменший дільник](https://basecamp.eolymp.com/uk/problems/8927)  
 [Список степенів двійки](https://basecamp.eolymp.com/uk/problems/8917)  
@@ -10,16 +10,16 @@ Additionally:
 [Точна степінь двійки](https://basecamp.eolymp.com/uk/problems/8670)  
 [Кількість повних квадратів](https://basecamp.eolymp.com/uk/problems/9950)  +[Additionally](https://basecamp.eolymp.com/uk/problems/9954)  
 [Ранкова пробіжка](https://basecamp.eolymp.com/uk/problems/7367)    
-Максимум послідовності  
+[Максимум послідовності](Максимум_послідовності.md)  
 [Сума квадратів](https://basecamp.eolymp.com/uk/problems/4725)  
 [Довжина послідовності](https://basecamp.eolymp.com/uk/problems/4729)  
-Середнє значення послідовності  
+[Середнє значення послідовності](Середнє_значення_послідовності.md)  
 [Сума цифр числа](https://basecamp.eolymp.com/uk/problems/1603)  
 [Число у зворотньому порядку](https://basecamp.eolymp.com/uk/problems/1607) +[Additionally](https://basecamp.eolymp.com/uk/problems/1608)  
 [Кількість парних](https://basecamp.eolymp.com/uk/problems/9902) +[Additionally](https://basecamp.eolymp.com/uk/problems/9903)  
 [Кількість елементів, рівних максимуму](https://basecamp.eolymp.com/uk/problems/4731)  
 [Більші попереднього](https://basecamp.eolymp.com/uk/problems/7843)  
-Другий максимум  
+[Другий максимум](Другий_максимум.md)  
 [Число Фібоначчі](https://basecamp.eolymp.com/uk/problems/4730)  
 [Номер числа Фібоначчі](https://basecamp.eolymp.com/uk/problems/4732)  
 [Добуток парних цифр числа](https://basecamp.eolymp.com/uk/problems/1604)  
