@@ -18,7 +18,7 @@
 [Хоча б одна умова з двох](https://basecamp.eolymp.com/uk/problems/8892)  
 [Кожна умова з двох](https://basecamp.eolymp.com/uk/problems/8893)  
 [Жодна умова з двох](https://basecamp.eolymp.com/uk/problems/8894)  
-[Дві однакові цифри](https://basecamp.eolymp.com/uk/problems/8621) 
+[Дві однакові цифри](https://basecamp.eolymp.com/uk/problems/8621)   
 [Додатні і від’ємні числа](https://basecamp.eolymp.com/uk/problems/8895)  
 [Скільки чисел однакових](Скільки_чисел_однакових.md)  
 [Парні та непарні](Парні_та_непарні.md)  
