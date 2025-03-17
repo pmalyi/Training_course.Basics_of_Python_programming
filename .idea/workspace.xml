@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93da78f-7866-4652-bd2d-f4d5a962d26b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Training_course.Basics_of_Python_programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Contents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Автопробіг.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Кільцева_дорога.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Наступне_і_попереднє_число.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Операції_над_рядками.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Перша_цифра_двозначного_числа.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Пінгвіни.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Равлик.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Степінь_двійки.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Вступ_Лінійні_програми/Як_змінні_влаштовані_всередині.md" afterDir="false" />
+    <list default="true" id="c93da78f-7866-4652-bd2d-f4d5a962d26b" name="Changes" comment="Вступ. Лінійні програми">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pmalyi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pmalyi/Training_course.Basics_of_Python_programming.git",
+    "accountId": "3f59df49-792e-441c-b217-df3da2174feb"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -63,6 +60,35 @@
       <option name="presentableId" value="Default" />
       <updated>1742194846993</updated>
     </task>
+    <task id="LOCAL-00001" summary="Вступ. Лінійні програми">
+      <option name="closed" value="true" />
+      <created>1742214769718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742214769718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Вступ. Лінійні програми">
+      <option name="closed" value="true" />
+      <created>1742214810879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742214810879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Вступ. Лінійні програми">
+      <option name="closed" value="true" />
+      <created>1742214818356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742214818356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Вступ. Лінійні програми" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вступ. Лінійні програми" />
   </component>
 </project>
