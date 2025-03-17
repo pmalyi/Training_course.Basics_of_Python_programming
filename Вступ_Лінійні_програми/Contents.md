@@ -5,7 +5,7 @@
 Наступне і попереднє число  
 [Поділ яблук - 1](https://basecamp.eolymp.com/uk/problems/4716)  
 [Поділ яблук - 2](https://basecamp.eolymp.com/uk/problems/4717)  
-Степінь двійки ([additionally](https://basecamp.eolymp.com/uk/problems/5050)) 
+Степінь двійки ([additionally](https://basecamp.eolymp.com/uk/problems/5050))  
 [Остання цифра](https://basecamp.eolymp.com/uk/problems/5175)  
 Перша цифра двозначного числа  
 [Третя праворуч](https://basecamp.eolymp.com/uk/problems/8602)  
