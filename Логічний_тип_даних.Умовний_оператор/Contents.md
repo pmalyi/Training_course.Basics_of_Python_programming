@@ -1,4 +1,4 @@
-Логічний тип даних у Python та логічні операції  
+[Логічний тип даних у Python та логічні операції](https://github.com/pmalyi/Training_course.Basics_of_Python_programming/blob/master/%D0%9B%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%BF_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85.%D0%A3%D0%BC%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80/%D0%9B%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%BF_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85.%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%97.md)  
 Приклади використання логічних виразів  
 Умовний оператор
 Приклади використання умовного оператора  
