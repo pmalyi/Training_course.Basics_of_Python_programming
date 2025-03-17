@@ -27,6 +27,7 @@
 Коробки  
 [Золоті злитки](https://basecamp.eolymp.com/uk/problems/7784)  
 [Турист](https://basecamp.eolymp.com/uk/problems/206)  
+[Коробка](https://basecamp.eolymp.com/uk/problems/10923)  
 Складування ноутбуків  
 Котлети  
 Упаковка  
