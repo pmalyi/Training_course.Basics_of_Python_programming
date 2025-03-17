@@ -1,4 +1,4 @@
-Вступ  
+[Вступ](https://github.com/pmalyi/Training_course.Basics_of_Python_programming/blob/master/%D0%92%D1%81%D1%82%D1%83%D0%BF_%D0%9B%D1%96%D0%BD%D1%96%D0%B9%D0%BD%D1%96_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8/Intro.md)  
 Як змінні влаштовані всередині  
 Операції над рядками  
 Пінгвіни  
