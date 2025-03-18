@@ -14,8 +14,15 @@ Additionally:
 [Сума квадратів](https://basecamp.eolymp.com/uk/problems/4725)  
 [Довжина послідовності](https://basecamp.eolymp.com/uk/problems/4729)  
 [Середнє значення послідовності](Середнє_значення_послідовності.md)  
-[Сума цифр числа](https://basecamp.eolymp.com/uk/problems/1603)  
-[Число у зворотньому порядку](https://basecamp.eolymp.com/uk/problems/1607) +[Additionally](https://basecamp.eolymp.com/uk/problems/1608)  
+[Сума цифр числа](https://basecamp.eolymp.com/uk/problems/1603)   
+
+Additionaly  
+- [Добуток парних цифр числа](https://basecamp.eolymp.com/uk/problems/1604)  
+- [Друга цифра числа](https://basecamp.eolymp.com/uk/problems/1605)   
+- [Сума першої та останньої цифр числа](https://basecamp.eolymp.com/uk/problems/1606)  
+- [Кількість даних цифр в числі](https://basecamp.eolymp.com/uk/problems/1609)  
+
+[Число у зворотньому порядку](https://basecamp.eolymp.com/uk/problems/1607) +[Additionally](https://basecamp.eolymp.com/uk/problems/1608)
 [Кількість парних](https://basecamp.eolymp.com/uk/problems/9902) +[Additionally](https://basecamp.eolymp.com/uk/problems/9903)  
 [Кількість елементів, рівних максимуму](https://basecamp.eolymp.com/uk/problems/4731)  
 [Більші попереднього](https://basecamp.eolymp.com/uk/problems/7843)  
