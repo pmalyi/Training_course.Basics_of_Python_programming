@@ -30,6 +30,7 @@ Additionaly
 [Другий максимум](Другий_максимум.md)  
 [Число Фібоначчі](https://basecamp.eolymp.com/uk/problems/4730)  
 [Номер числа Фібоначчі](https://basecamp.eolymp.com/uk/problems/4732)
+[Сходинки - кількість способів](https://basecamp.eolymp.com/uk/problems/8234)  
 [Виконавець роздвоювач](Виконавець_роздвоювач.md)
 [Задача a + b](https://basecamp.eolymp.com/uk/problems/1000)  
 [Пірати і монети](https://basecamp.eolymp.com/uk/problems/75)  
