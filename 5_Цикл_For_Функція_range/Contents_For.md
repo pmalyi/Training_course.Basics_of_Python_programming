@@ -37,7 +37,7 @@
 [Таблиця множення](https://basecamp.eolymp.com/uk/problems/8545)  
 [Знайдіть суму](https://basecamp.eolymp.com/uk/problems/8546)  
 [Щасливі квитки](https://basecamp.eolymp.com/uk/problems/128)  
-[Скрутні часи. UOI 2023. II stage](https://basecamp.eolymp.com/uk/problems/11304)
+[Скрутні часи. UOI 2023. II stage](https://basecamp.eolymp.com/uk/problems/11304)  
 [Задача Іосифа Флавія](https://basecamp.eolymp.com/uk/problems/971)  
 [Змагання "Цикли - 1"](https://basecamp.eolymp.com/uk/compete/5536)  
 [Змагання "Цикли - 2"](https://basecamp.eolymp.com/uk/compete/5534)  
