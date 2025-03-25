@@ -58,6 +58,7 @@
 - [Ще такі сходинки](https://basecamp.eolymp.com/uk/problems/9981)  
 - [Піраміда з символів](https://basecamp.eolymp.com/uk/problems/1119)  
 
+[Драбинка](Драбинка.md)  +Additionally [Пірамідка](Пірамідка.md)
 [Коментар](Коментар.md)  
 [Робот](https://basecamp.eolymp.com/uk/problems/87)  
 [Римські числа](https://basecamp.eolymp.com/uk/problems/7)  

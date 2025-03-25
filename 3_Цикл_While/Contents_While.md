@@ -9,11 +9,19 @@ Additionally:
 
 [Точна степінь двійки](https://basecamp.eolymp.com/uk/problems/8670)  
 [Кількість повних квадратів](https://basecamp.eolymp.com/uk/problems/9950)  +[Additionally](https://basecamp.eolymp.com/uk/problems/9954)  
-[Ранкова пробіжка](https://basecamp.eolymp.com/uk/problems/7367)    
-[Максимум послідовності](Максимум_послідовності.md)  
-[Сума квадратів](https://basecamp.eolymp.com/uk/problems/4725)  
-[Довжина послідовності](https://basecamp.eolymp.com/uk/problems/4729)  
+[Ранкова пробіжка](https://basecamp.eolymp.com/uk/problems/7367)  
+[Довжина послідовності](https://basecamp.eolymp.com/uk/problems/8909)  
+[Сума послідовності](https://basecamp.eolymp.com/uk/problems/8910)  
+
+Additionally
+- [Кількість від'ємних](https://basecamp.eolymp.com/uk/problems/8911)  
+- [Сума додатних](https://basecamp.eolymp.com/uk/problems/8912)  
+- [Кількість непарних](https://basecamp.eolymp.com/uk/problems/8913)  
+- [Сума парних](https://basecamp.eolymp.com/uk/problems/8914)  
+
 [Середнє значення послідовності](Середнє_значення_послідовності.md)  
+[Максимум послідовності](Максимум_послідовності.md)  
+[Сума квадратів](https://basecamp.eolymp.com/uk/problems/4725)
 [Сума цифр числа](https://basecamp.eolymp.com/uk/problems/1603)   
 
 Additionaly  

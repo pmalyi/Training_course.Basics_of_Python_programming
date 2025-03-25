@@ -1,11 +1,43 @@
 [Цикл For Функція range](Цикл_For_Функція_range.md)
+[Усі OK](https://basecamp.eolymp.com/uk/problems/8931)  
+[Марафон 2](https://basecamp.eolymp.com/uk/problems/8932)  
+[Таймер](https://basecamp.eolymp.com/uk/problems/8933)  
+[Марафон 3](https://basecamp.eolymp.com/uk/problems/8934)  
+[Непарні на проміжку](https://basecamp.eolymp.com/uk/problems/8935) +Additionally [Парні на проміжку](https://basecamp.eolymp.com/uk/problems/8936)  
+[#Смужка](https://basecamp.eolymp.com/uk/problems/8937)  
+[#Прямокутник](https://basecamp.eolymp.com/uk/problems/8938)  
++Additionally  
+- [#Прямокутник 2](https://basecamp.eolymp.com/uk/problems/8939)  
+- [#Прямокутник 3](https://basecamp.eolymp.com/uk/problems/8940)  
 
+[Прапори](Прапори.md)  
+[Сума квадратів](https://basecamp.eolymp.com/uk/problems/4725)  
+[Чудові числа – 1](Чудові_числа_1.md)  
+[Чудові числа – 2](Чудові_числа_2.md)
+[Факторіал](https://basecamp.eolymp.com/uk/problems/1658)  
+[Сума факторіалів](Сума_факторіалів.md)  
+[Загублена картка](Загублена_картка.md)
 
+[Матриця](https://basecamp.eolymp.com/uk/problems/8941)  
+[*Рамка](https://basecamp.eolymp.com/uk/problems/8942)  
+[*Рамка 4](https://basecamp.eolymp.com/uk/problems/8945)  
+[Шаблон](https://basecamp.eolymp.com/uk/problems/8946)  
 
++Additionally  
+- [Шаблон 2](https://basecamp.eolymp.com/uk/problems/8947)  
+- [Шаблон 3](https://basecamp.eolymp.com/uk/problems/8948)
+- [Шаблон 4](https://basecamp.eolymp.com/uk/problems/8949)  
+- [Шаблон 5](https://basecamp.eolymp.com/uk/problems/8950)  
+- [Шаблон 6](https://basecamp.eolymp.com/uk/problems/8951)  
 
-
-[Скрутні часи. UOI 2023. II stage](https://basecamp.eolymp.com/uk/problems/11304)  
-
+[День народження Сонечки. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/242)  
+[Табулювання функції](https://basecamp.eolymp.com/uk/problems/2864)  
+[Кількість дільників](https://basecamp.eolymp.com/uk/problems/2862)  
+[Прості числа](https://basecamp.eolymp.com/uk/problems/830)  
+[Таблиця множення](https://basecamp.eolymp.com/uk/problems/8545)  
+[Знайдіть суму](https://basecamp.eolymp.com/uk/problems/8546)  
+[Щасливі квитки](https://basecamp.eolymp.com/uk/problems/128)  
+[Скрутні часи. UOI 2023. II stage](https://basecamp.eolymp.com/uk/problems/11304)
 [Задача Іосифа Флавія](https://basecamp.eolymp.com/uk/problems/971)  
 [Змагання "Цикли - 1"](https://basecamp.eolymp.com/uk/compete/5536)  
 [Змагання "Цикли - 2"](https://basecamp.eolymp.com/uk/compete/5534)  
