@@ -62,4 +62,6 @@
 [Робот](https://basecamp.eolymp.com/uk/problems/87)  
 [Римські числа](https://basecamp.eolymp.com/uk/problems/7)  
 [Рядки з тими ж літерами](https://basecamp.eolymp.com/uk/problems/6628)  
+[Сакурако запізнилася. UOI 2025. II stage](https://uoi.eolymp.space/uk/problems/348)    
+[Красивий рядок. UOI 2025. II stage](https://uoi.eolymp.space/uk/problems/349)  
 

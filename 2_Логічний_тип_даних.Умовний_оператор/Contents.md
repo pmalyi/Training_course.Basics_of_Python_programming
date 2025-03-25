@@ -27,6 +27,8 @@
 [В'язень замку ІФ](Вязень_замку_Іф.md)  
 [Коробки](Коробки.md)  
 [Кава. UOI 2022. II stage](https://basecamp.eolymp.com/uk/problems/10922)  
+[Перевірте календар! UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/240)  
+[Приготуйте домашнє завдання. UOI 2025. II stage](https://uoi.eolymp.space/uk/problems/346)  
 [Коробка. UOI 2022. II stage](https://basecamp.eolymp.com/uk/problems/10923)  
 [Яблука. UOI 2022. II stage](https://basecamp.eolymp.com/uk/problems/10924)  
 [Петрик та екзамен. UOI 2023. II stage](https://basecamp.eolymp.com/uk/problems/11302)  
@@ -37,6 +39,8 @@
 [Котлети](Котлети.md)  
 [Упаковка](Упаковка.md)  
 [Сірники](Сірники.md)  
+[Переїзд. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/241) 
+[М'ячі та контейнери. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/347)  
 [Змагання "Оператор розгалуження"](https://basecamp.eolymp.com/uk/compete/27009)  
 
 
