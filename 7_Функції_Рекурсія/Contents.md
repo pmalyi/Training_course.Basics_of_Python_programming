@@ -1,4 +1,5 @@
-[Поняття функції. Використання функцій](Поняття_функції.md)
+[Поняття функції. Використання функцій](Поняття_функції.md) 
+[Мінімум і максимум](https://basecamp.eolymp.com/uk/problems/2606)  
 [Мінімум 4 чисел](Мінімум_4_чисел.md)  
 [Сума (функції)](https://basecamp.eolymp.com/uk/problems/8762)  
 [Проста задача (функції)](https://basecamp.eolymp.com/uk/problems/9026)  
@@ -18,3 +19,13 @@
 [Виключне АБО](Виключне_АБО.md)
 [Чи є число простим?](https://basecamp.eolymp.com/uk/problems/1616)  
 [Паралелепіпед максимального об'єму](Паралелепіпед_макс_об.md)  
+[Функція - 1](https://basecamp.eolymp.com/uk/problems/8239) +Additionaly [Функція - 4](https://basecamp.eolymp.com/uk/problems/8689)  
+[Використовуй функцію](https://basecamp.eolymp.com/uk/problems/920)  
+[Мінімальна сума цифр](https://basecamp.eolymp.com/uk/problems/141)  
+[Щасливе число](https://basecamp.eolymp.com/uk/problems/2014)  
+[Задача 3n + 1](https://basecamp.eolymp.com/uk/problems/419)  
+[Сума цифр](https://basecamp.eolymp.com/uk/problems/5083)  
+[Формули Крамера](https://basecamp.eolymp.com/uk/problems/936)  
+[Кількість нулів у факторіала](https://basecamp.eolymp.com/uk/problems/123)  
+
+
