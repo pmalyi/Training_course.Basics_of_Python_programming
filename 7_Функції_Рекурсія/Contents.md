@@ -6,7 +6,7 @@
 [Кількість дільників (Функція)](https://basecamp.eolymp.com/uk/problems/9395)  
 [Найменший дільник (функція)](https://basecamp.eolymp.com/uk/problems/9398)  
 [Довжина відрізка. Напишіть функцію distance(x1, y1, x2, y2)](https://basecamp.eolymp.com/uk/problems/9963)  
-[Периметр та площа трикутника. Використовуючи функцію distance(x1, y1, x2, y2)](https://basecamp.eolymp.com/uk/problems/925)  
+[Периметр та площа трикутника. Використовуючи функцію distance(x1, y1, x2, y2)](https://basecamp.eolymp.com/uk/problems/925)   
 [Чи належить точка квадрату - 1](Чи_належить_точка_квадрату_1.md)
 [Точка та коло](https://basecamp.eolymp.com/uk/problems/2027)  
 
