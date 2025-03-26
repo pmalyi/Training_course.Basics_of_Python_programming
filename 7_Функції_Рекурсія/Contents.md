@@ -8,3 +8,13 @@
 [Довжина відрізка. Напишіть функцію distance(x1, y1, x2, y2)](https://basecamp.eolymp.com/uk/problems/9963)  
 [Периметр та площа трикутника. Використовуючи функцію distance(x1, y1, x2, y2)](https://basecamp.eolymp.com/uk/problems/925)  
 [Чи належить точка квадрату - 1](Чи_належить_точка_квадрату_1.md)
+[Точка та коло](https://basecamp.eolymp.com/uk/problems/2027)  
+
++Additionally  
+- [y = sin x](https://basecamp.eolymp.com/uk/problems/2028)  
+- [Кільце](https://basecamp.eolymp.com/uk/problems/2029)  
+- [y = cos x](https://basecamp.eolymp.com/uk/problems/2030)  
+
+[Виключне АБО](Виключне_АБО.md)
+[Чи є число простим?](https://basecamp.eolymp.com/uk/problems/1616)  
+[Паралелепіпед максимального об'єму](Паралелепіпед_макс_об.md)  
