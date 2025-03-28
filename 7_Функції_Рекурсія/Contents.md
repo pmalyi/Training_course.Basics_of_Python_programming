@@ -27,5 +27,19 @@
 [Сума цифр](https://basecamp.eolymp.com/uk/problems/5083)  
 [Формули Крамера](https://basecamp.eolymp.com/uk/problems/936)  
 [Кількість нулів у факторіала](https://basecamp.eolymp.com/uk/problems/123)  
+[Рекурсія. Основні поняття](Рекусія_Основні_поняття.md)  
+[Піднесення до степеня](Піднесення_до_степеня.md)  
+[Швидке піднесення до степеня](Швидке_піднесення_до_степеня.md)  
+
++Additionally  
+- [Піднесення до степеня](https://basecamp.eolymp.com/uk/problems/4439)  
+- [Піднесення до степеня](https://basecamp.eolymp.com/uk/problems/273)  
+
+[Додавання без додавання](Додавання_без_додавання.md)  
+[Алгоритм Евкліда](Алгоритм_Евкліда.md) +Additionally [НСД двох чисел](https://basecamp.eolymp.com/uk/problems/1601)  
+[Сума дробів](https://basecamp.eolymp.com/uk/problems/7363) +Additionally [Дробова арифметика](https://basecamp.eolymp.com/uk/problems/1017)  
+[n-те число Фібоначчі](https://basecamp.eolymp.com/uk/problems/4730) +Additionally [Послідовність чисел Фібоначчі](https://basecamp.eolymp.com/uk/problems/2031)  
+[Сходинки - кількість способів](https://basecamp.eolymp.com/uk/problems/8234)  
+[Кількість комбінацій (сполук)](Кількість_комбінацій.md)
 
 

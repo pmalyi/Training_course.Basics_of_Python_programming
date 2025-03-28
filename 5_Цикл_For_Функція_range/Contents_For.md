@@ -29,6 +29,7 @@
 - [Шаблон 4](https://basecamp.eolymp.com/uk/problems/8949)  
 - [Шаблон 5](https://basecamp.eolymp.com/uk/problems/8950)  
 - [Шаблон 6](https://basecamp.eolymp.com/uk/problems/8951)  
+- [Вишивання “хрестиком”](https://basecamp.eolymp.com/uk/problems/479)  
 
 [День народження Сонечки. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/242)  
 [Табулювання функції](https://basecamp.eolymp.com/uk/problems/2864)  
