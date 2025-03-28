@@ -40,6 +40,18 @@
 [Сума дробів](https://basecamp.eolymp.com/uk/problems/7363) +Additionally [Дробова арифметика](https://basecamp.eolymp.com/uk/problems/1017)  
 [n-те число Фібоначчі](https://basecamp.eolymp.com/uk/problems/4730) +Additionally [Послідовність чисел Фібоначчі](https://basecamp.eolymp.com/uk/problems/2031)  
 [Сходинки - кількість способів](https://basecamp.eolymp.com/uk/problems/8234)  
-[Кількість комбінацій (сполук)](Кількість_комбінацій.md)
+[Кількість комбінацій (сполук)](Кількість_комбінацій.md)  
+[Сума послідовності](Сума_послідовності.md)  
+[Розворот послідовності](Розворот_послідовності.md)  
+[Задача Іосифа Флавія. Опис проблеми](https://www.geogebra.org/m/ExvvrBbR?authuser=1)  
+[Задача Іосифа Флавія](https://basecamp.eolymp.com/uk/problems/971)  
+[Ханойські вежі](Ханойські_вежі.md)  
 
++Additionally
+- [Ханойські вежі](https://basecamp.eolymp.com/uk/problems/3936)  
+- [І знову ханойські вежі](https://basecamp.eolymp.com/uk/problems/6159)  
+
+[Теорема Лагранжа](Теорема_Лагранжа.md) +Additionally [Теорема Лагранжа про суму чотирьох квадратів](https://basecamp.eolymp.com/uk/problems/564)  
+[Сума кубів](Сума_кубів.md) +Additionally [Розклад у суму кубів](https://basecamp.eolymp.com/uk/problems/5867)  
+[Тільки квадрати](Тільки_квадрати.md)  
 
