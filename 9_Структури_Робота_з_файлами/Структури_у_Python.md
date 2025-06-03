@@ -48,5 +48,47 @@ print(bob2)  # Person(name='Bob', age=30)
 # _fields — повертає список полів
 print(Person._fields)  # ('name', 'age')
 ```
+#### Приклади використання іменовах кортежів
+*Задача 1: Книга*
+Створіть іменований кортеж Book з полями title, author, year.  
+Створіть об’єкт книга. Надрукуйте автора. Змініть рік видання через _replace. 
+```python
+from collections import namedtuple
 
+Book = namedtuple('Book', ['title', 'author', 'year'])
+b = Book("Python 101", "John Doe", 2020)
+print(b.author)   # John Doe
+new_b = b._replace(year=2021)
+print(new_b)  # Book(title='Python 101', author='John Doe', year=2021)
+```
+
+*Задача 2: Точка на площині*  
+Створіть Point(x, y).  
+Обчисліть відстань до початку координат. Надрукуйте Point у вигляді (x=..., y=...).
+```python
+from collections import namedtuple
+import math
+
+Point = namedtuple('Point', ['x', 'y'])
+p = Point(3, 4)
+distance = math.sqrt(p.x ** 2 + p.y ** 2)
+print(f"Distance: {distance:.2f}")   # Distance: 5.00
+```
+
+*Задача 3: Студенти*   
+Є список студентів у вигляді Student(name, grade).  
+Надрукувати імена студентів, у яких оцінка ≥ 90. Порахувати середній бал.
+```python
+from collections import namedtuple
+
+Student = namedtuple('Student', ['name', 'grade'])
+students = [
+    Student("Alice", 91),
+    Student("Bob", 85),
+    Student("Clara", 96),
+]
+print([s.name for s in students if s.grade >= 90])   # ['Alice', 'Clara']
+avg = sum(s.grade for s in students) / len(students)
+print(f"Average grade: {avg:.2f}")   # Average grade: 90.67
+```
 
