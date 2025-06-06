@@ -1,4 +1,4 @@
-[Цикл For Функція range](Цикл_For_Функція_range.md)
+### [Цикл For Функція range](Цикл_For_Функція_range.md)
 [Усі OK](https://basecamp.eolymp.com/uk/problems/8931)  
 [Марафон 2](https://basecamp.eolymp.com/uk/problems/8932)  
 [Таймер](https://basecamp.eolymp.com/uk/problems/8933)  

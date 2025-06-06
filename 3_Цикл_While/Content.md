@@ -1,4 +1,4 @@
-[Вказівка повторення. Цикл While](https://github.com/pmalyi/Training_course.Basics_of_Python_programming/blob/master/%D0%A6%D0%B8%D0%BA%D0%BB_While/%D0%92%D0%BA%D0%B0%D0%B7%D1%96%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F.%D0%A6%D0%B8%D0%BA%D0%BB_While.md)  
+### [Вказівка повторення. Цикл While](https://github.com/pmalyi/Training_course.Basics_of_Python_programming/blob/master/%D0%A6%D0%B8%D0%BA%D0%BB_While/%D0%92%D0%BA%D0%B0%D0%B7%D1%96%D0%B2%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F.%D0%A6%D0%B8%D0%BA%D0%BB_While.md)  
 [Квадрати чисел](https://basecamp.eolymp.com/uk/problems/8544)  
 [Найменший дільник](https://basecamp.eolymp.com/uk/problems/8927)  
 [Список степенів двійки](https://basecamp.eolymp.com/uk/problems/8917)  
