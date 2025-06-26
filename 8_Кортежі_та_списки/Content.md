@@ -22,7 +22,7 @@ Additionaly: [Ті, що діляться на 6](https://basecamp.eolymp.com/uk
 [Максимум. UOI II st. 2022](https://basecamp.eolymp.com/uk/problems/10925)   
 [До чого ЗНО доводить... UOI II st. 2023](https://uoi.eolymp.space/uk/problems/6)
 ### [Списки. Основні поняття](Поняття_списку.md)  
-[Коли доцільно використовувати кортеж, а не список](Кортеж_vs_список.md)  
+### [Коли доцільно використовувати кортеж, а не список](Кортеж_vs_список.md)  
 [Вставити елемент](Вставити_елемент.md)  
 [Переставити сусідні](https://basecamp.eolymp.com/uk/problems/7848)  
 [Обміняти max і min](https://basecamp.eolymp.com/uk/problems/7849)  
