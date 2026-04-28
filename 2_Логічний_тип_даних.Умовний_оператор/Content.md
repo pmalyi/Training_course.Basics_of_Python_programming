@@ -25,7 +25,7 @@
 [Парні та непарні](Парні_та_непарні.md)  
 [Впорядкувати три числа](Впорядкувати_три_числа.md)  
 [В'язень замку ІФ](Вязень_замку_Іф.md)  
-[Коробки](Коробки.md)
+[Коробки](Коробки.md)  
 [Футбольний матч](https://basecamp.eolymp.com/uk/problems/10276)  
 [Кава. UOI 2022. II stage](https://basecamp.eolymp.com/uk/problems/10922)  
 [Перевірте календар! UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/240)  
@@ -40,7 +40,7 @@
 [Котлети](Котлети.md)  
 [Упаковка](Упаковка.md)  
 [Сірники](Сірники.md)  
-[Переїзд. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/241) 
+[Переїзд. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/241)  
 [М'ячі та контейнери. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/347)  
 [Змагання "Оператор розгалуження"](https://basecamp.eolymp.com/uk/compete/27009)  
 
