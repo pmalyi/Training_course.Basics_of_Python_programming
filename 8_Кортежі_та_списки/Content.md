@@ -50,7 +50,7 @@ Additionaly: [Ті, що діляться на 6](https://basecamp.eolymp.com/uk
 #### [Вбудоване сортування. Порівняння кортежів та списків](Сортування_Порівняння_кортежів_та_списків.md)  
 [Пари](https://basecamp.eolymp.com/uk/problems/10126)  
 [Два найбільших](https://basecamp.eolymp.com/uk/problems/7834)  
-[Сума двох](https://eolymp.com/uk/problems/11244)
+[Сума двох](https://eolymp.com/uk/problems/11244)  
 [Взуттєвий магазин](Взуттєвий_магазин.md)  
 [Створення архіву](Створення_архіву.md)  
 [Мінімальна сума](https://eolymp.com/uk/problems/6198)  
