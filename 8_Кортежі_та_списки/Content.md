@@ -13,7 +13,7 @@ Additionaly: [Ті, що діляться на 6](https://basecamp.eolymp.com/uk
 [Найбільший елемент масиву](https://basecamp.eolymp.com/uk/problems/7830) Additionaly [Найбільший елемент](https://basecamp.eolymp.com/uk/problems/7846)  
 [Крайній найбільший](https://basecamp.eolymp.com/uk/problems/8962)  
 [Найменший парний](https://basecamp.eolymp.com/uk/problems/9960) Additionaly [Найбільше парне в масиві](https://basecamp.eolymp.com/uk/problems/9956) i [Найменше від'ємне в масиві](https://basecamp.eolymp.com/uk/problems/9957)  
-[Сума без максимального](https://basecamp.eolymp.com/uk/problems/7831)
+[Сума без максимального](https://basecamp.eolymp.com/uk/problems/7831)  
 [Шеренга](https://basecamp.eolymp.com/uk/problems/1965)   
 [Початкові значення елементів](https://basecamp.eolymp.com/uk/problems/8965) Additionaly [Початкові значення елементів 2](https://basecamp.eolymp.com/uk/problems/8967), 
 [Початкові значення елементів 3](https://basecamp.eolymp.com/uk/problems/8968), [Початкові значення елементів 4](https://basecamp.eolymp.com/uk/problems/8969)   
