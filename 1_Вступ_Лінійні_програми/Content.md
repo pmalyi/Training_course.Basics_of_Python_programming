@@ -31,6 +31,7 @@ Additionally: [Електронний годинник - 2](https://basecamp.eol
 [Пиріжки](https://basecamp.eolymp.com/uk/problems/7336)  
 [Міс М та квіти. UOI 2024. II stage](https://uoi.eolymp.space/uk/problems/239)  
 [Наступне непарне число](https://basecamp.eolymp.com/uk/problems/8887)  
+[Букет квітів для юніорів]()  
 [Кільцева дорога](Кільцева_дорога.md)  
 [Автопробіг](Автопробіг.md)  
 [Равлик](Равлик.md)  
