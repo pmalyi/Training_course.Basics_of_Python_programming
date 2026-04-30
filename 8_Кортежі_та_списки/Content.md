@@ -55,7 +55,7 @@ Additionaly: [Ті, що діляться на 6](https://basecamp.eolymp.com/uk
 [Мінімальна сума](https://eolymp.com/uk/problems/6198)   
 [Таксі](https://basecamp.eolymp.com/uk/problems/2208)  
 [Підпроекти](https://eolymp.com/uk/problems/92)   
-[Дмитро і пляшки. UOI II st. 2021](https://eolymp.com/uk/problems/10249)
+[Дмитро і пляшки. UOI II st. 2021](https://eolymp.com/uk/problems/10249)  
 [Гарний масив. UOI II st. 2025](https://uoi.eolymp.space/uk/problems/350)  
 [Операції. UOI II st. 2022](https://uoi.eolymp.space/uk/problems/67)  
 [Кульки](https://basecamp.eolymp.com/uk/problems/1968)   
