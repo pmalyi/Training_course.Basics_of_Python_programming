@@ -52,7 +52,7 @@ Additionaly: [Ті, що діляться на 6](https://basecamp.eolymp.com/uk
 [Сума двох](https://eolymp.com/uk/problems/11244)  
 [Взуттєвий магазин](Взуттєвий_магазин.md)  
 [Створення архіву](Створення_архіву.md)  
-[Мінімальна сума](https://eolymp.com/uk/problems/6198)  
+[Мінімальна сума](https://eolymp.com/uk/problems/6198)   
 [Таксі](https://basecamp.eolymp.com/uk/problems/2208)  
 [Підпроекти](https://eolymp.com/uk/problems/92)   
 [Дмитро і пляшки. UOI II st. 2021](https://eolymp.com/uk/problems/10249)
