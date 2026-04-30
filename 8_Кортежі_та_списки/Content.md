@@ -80,4 +80,5 @@ Additionaly: [Ті, що діляться на 6](https://basecamp.eolymp.com/uk
 [Відобразити відносно вертикальної осі симетрії](https://basecamp.eolymp.com/uk/problems/9570)  
 [Поміняти стовпці матриці](Поміняти_стовпці_матриці.md)  
 [Циклічний зсув](Циклічний_зсув.md)  
+[Різдвяний експрес](https://eolymp.com/uk/problems/10268)  
 [Спіралька](https://basecamp.eolymp.com/uk/problems/5057) Additionaly [Спіраль](https://basecamp.eolymp.com/uk/problems/85)  
